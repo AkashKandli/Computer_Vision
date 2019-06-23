@@ -1,0 +1,3 @@
+#!/Users/raysabbineni/Desktop/cv_final_project/env/bin/python3
+from numba.pycc import main
+main()
